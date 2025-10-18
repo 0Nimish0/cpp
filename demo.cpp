@@ -1,8 +1,11 @@
-#include<iostream>
-using namespace std;
+#include <iostream>
 
-int main()
-{
-    cout << "hello guys" << endl;
+int main(){
+
+    //first program 
+    
+    std::cout << "Nimish" << "\n";
+    std::cout << "let's start cpp" << std :: endl ;
+
     return 0;
 }
