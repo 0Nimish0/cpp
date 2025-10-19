@@ -20,7 +20,7 @@ int main (){
 
 
     std:: cout << " Hello  " << name;
-    std:: cout << " your age is  " << age;
+    std:: cout << " your age is  " << age;    
 
 
     return 0;
